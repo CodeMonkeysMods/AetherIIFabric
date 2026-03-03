@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.tcm.AetherII.AetherII"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"com.tcm.AetherII.AetherIIClient"
 		]
 	},
 	"mixins": [
